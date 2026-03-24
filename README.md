@@ -43,10 +43,10 @@ To run this scraper successfully, you need:
 ## 🛠️ Step-by-Step Installation
 
 ### 1. Clone the Repository
-First, clone this repository to your local machine using Git:
+First, clone this repository [https://github.com/babiguling12/EOI-SkillSelect-Scraping.git](https://github.com/babiguling12/EOI-SkillSelect-Scraping.git) to your local machine using Git:
 
 ```bash
-git clone [https://github.com/babiguling12/EOI-SkillSelect-Scraping.git](https://github.com/babiguling12/EOI-SkillSelect-Scraping.git)
+git clone https://github.com/babiguling12/EOI-SkillSelect-Scraping.git
 cd EOI-SkillSelect-Scraping
 ```
 
